@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.12)
 
 # Change your executable name to something creative!
-set(NAME display_experiments) # <-- Name your project/executable here!
+set(NAME diff_drive) # <-- Name your project/executable here!
 #set(PICO_BOARD pico_w)
 
 include(pimoroni_pico_import.cmake)
